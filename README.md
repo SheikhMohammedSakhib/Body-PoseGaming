@@ -8,7 +8,7 @@ Body PoseGaming is a motion-based gaming application that utilizes real-time pos
   
 - **Hand Gesture Recognition:** Analyzes hand positions to distinguish between joined and apart hands, enabling specific in-game actions.
   
-- **Gesture-Based Control:** Enables users to control the game in real-time by moving left, right, jumping, crouching, or performing various gestures.
+- **Gesture-Based Control:** Enables users to control the game in real-time by moving left, right, jumping, crouching.
   
 - **Easy Integration:** Seamlessly integrates with existing games and applications, offering a unique and intuitive way to interact with digital environments.
 
@@ -28,14 +28,14 @@ git clone https://github.com/SheikhMohammedSakhib/Body-PoseGaming.git
 2. Install the required Python libraries using `pip`:
 pip install opencv-python pyautogui mediapipe matplotlib
 
-3. Open your preferred online game website (e.g., Subway Surfers) and start the game:
-   - The game is typically controlled with 'up,' 'down,' 'left,' and 'right' keys. However, with this setup, your body movements, detected by the code, will control the game.
+3. Open your preferred online game website e.g.,https://poki.com (open Subway Surfers) :
+   - The game which are typically controlled with 'up,' 'down,' 'left,' and 'right' keys. However, with this setup, your body movements, detected by the code, will control the game.
 
 4. Run the code
 5. Position yourself in front of the webcam.
-6. Join your hands to initiate the game.
-7. Move, jump, or crouch to control the game characters.
-8. Press 'Esc' to exit the game.
+6. Join your hands to start the game (e.g.,subway surfers).
+7. Move left, right, jump, or crouch to control the game characters.
+8. Press the 'Esc' key to exit the game and stop code's execution.
 
 
 
