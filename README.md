@@ -28,14 +28,14 @@ git clone https://github.com/SheikhMohammedSakhib/Body-PoseGaming.git
 2. Install the required Python libraries using `pip`:
 pip install opencv-python pyautogui mediapipe matplotlib
 
-3. **Open your preferred online game website (e.g., Subway Surfers) and start the game:**
-- Typically controlled with 'up,' 'down,' 'left,' and 'right' keys, but with this setup, your body movements, detected by the code, will control the game.
+3. Open your preferred online game website (e.g., Subway Surfers) and start the game:
+   - The game is typically controlled with 'up,' 'down,' 'left,' and 'right' keys. However, with this setup, your body movements, detected by the code, will control the game.
 
-3. Run the code
-4. Position yourself in front of the webcam.
-5. Join your hands to initiate the game.
-6. Move, jump, or crouch to control the game characters.
-7. Press 'Esc' to exit the game.
+4. Run the code
+5. Position yourself in front of the webcam.
+6. Join your hands to initiate the game.
+7. Move, jump, or crouch to control the game characters.
+8. Press 'Esc' to exit the game.
 
 
 
